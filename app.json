@@ -1,6 +1,6 @@
 {
     "name": "𝐓𝐞𝐱𝐭 𝐋𝐞𝐞𝐜𝐡",
-    "description": "TEXT-LEECH-BOT-v1.3 by Ashutosh Goswami 24",
+    "description": "TEXT-LEECH-BOT by TeamLeakage",
     "logo": "https://opengraph.githubassets.com/l5syizx9jilr4mcfzku9rdwvomyj48b7/AshutoshGoswami24/text-leech-bot",
     "keywords": [
         "text-video",
@@ -12,19 +12,19 @@
     "stack": "heroku-22",
     "env": {
         "API_ID": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑰𝑫",
+            "description": "25158505",
             "required": true
         },
         "API_HASH": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑨𝒑𝒊 𝑯𝒂𝒔𝒉",
+            "description": "902aabefb27ed4c0e330e39f8fd6c559",
             "required": true
         },
         "BOT_TOKEN": {
-            "description": "𝑬𝒏𝒕𝒆𝒓 𝒀𝒐𝒖𝒓 𝑩𝒐𝒕 𝑻𝒐𝒌𝒆𝒏",
+            "description": "8167036815:AAEnNROOEd2FFUhFAfJtZtgtIG4G99epfwQ",
             "required": true
         },
         "PORT": {
-            "description": "𝘌𝘕𝘛𝘌𝘙 𝘈𝘕𝘠 𝘗𝘖𝘙𝘛 𝘓𝘐𝘒𝘌 8080",
+            "description": "8080",
             "required": true
         }
     },
